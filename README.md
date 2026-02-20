@@ -1,8 +1,8 @@
 # 🚀 Python Zero to ML
 
-Documenting my journey from **Python beginner** to **Machine Learning Engineer**.
+Documenting my journey from **Python Beginner → Machine Learning Engineer**.
 
-I’m building strong fundamentals in Python, then moving into Data Science, ML, and real-world projects — especially combining ML with EV technology ⚡🚗.
+I am building strong Python fundamentals first, then moving into Data Science and ML — with a long-term goal of combining **Machine Learning + EV Technology ⚡🚗**.
 
 ---
 
@@ -34,53 +34,75 @@ Mini Project:
 - OOP Basics
 
 ## 🔵 Phase 2 – Problem Solving
-- Basic Logic Problems
-- Mini CLI Projects
-- File Handling
-- Exception Handling
+- Logic building
+- CLI mini projects
+- File handling
+- Exception handling
 
-## 🟣 Phase 3 – Data & ML
+## 🟣 Phase 3 – Data Science & ML
 - NumPy
 - Pandas
 - Data Cleaning
 - Data Visualization
 - Scikit-learn
-- Regression Models
-- Classification Models
+- Regression
+- Classification
 
-## 🔴 Phase 4 – Advanced ML + EV Integration
-- Model Optimization
-- Deployment (Flask / Streamlit)
+## 🔴 Phase 4 – ML + EV Integration
 - EV Data Analysis
-- Battery Health Prediction Models
+- Battery Health Prediction
+- EV Range Prediction Model
+- Deployment using Flask/Streamlit
 
 ---
 
-# 📊 GitHub Contribution Goal
+# 📊 90-Day Consistency Challenge
 
-🎯 Goal: Minimum 1 meaningful commit per day  
-🎯 90 Days Consistency Challenge  
-🎯 Build 10 Python Projects before ML  
+🎯 Minimum 1 meaningful commit per day  
+🎯 Build 10 Python projects  
+🎯 Build 3 ML projects  
+🎯 Deploy at least 1 ML model  
 
 Consistency > Motivation.
 
 ---
 
-# 🧑‍💻 Mini Projects
+# 📝 Build in Public Log
+
+## Day 1
+- Set up Git & GitHub properly
+- Learned Variables & Input
+- Built Student ID Card Generator
+- Pushed first project to GitHub
+- Solved Git merge conflict
+
+More daily updates coming...
+
+---
+
+# 💡 Future ML + EV Project Ideas
+
+- 📈 EV Battery Health Prediction Model
+- 🔋 Battery Degradation Analysis using ML
+- 🚗 EV Range Estimator using Regression
+- 📊 EV Dashboard using Streamlit
+- 🧠 AI-powered Charging Optimization System
+
+---
+
+# 👨‍💻 Mini Projects
 
 | Project | Concepts Used | Status |
 |----------|---------------|--------|
 | Student ID Card Generator | Variables, Input | ✅ Completed |
 
-More projects coming soon...
-
 ---
 
-# 💡 Why This Repo?
+# 💬 Why This Repo?
 
-I believe in **building in public** and documenting growth instead of waiting to become perfect.
+I believe in **learning publicly**, tracking progress, and building real skills instead of chasing shortcuts.
 
-This repository will evolve as I grow.
+This repository will grow as I grow.
 
 ---
 
