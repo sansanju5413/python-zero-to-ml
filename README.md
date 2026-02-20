@@ -2,50 +2,87 @@
 
 Documenting my journey from **Python beginner** to **Machine Learning Engineer**.
 
-This repository contains my daily progress, practice programs, and mini projects as I build strong fundamentals in Python before moving into Data Science and ML.
+I’m building strong fundamentals in Python, then moving into Data Science, ML, and real-world projects — especially combining ML with EV technology ⚡🚗.
 
 ---
 
-## 📅 Week 1 – Python Basics
+# 📅 Progress Tracker
 
-### 📌 Concepts Learned
+## ✅ Week 1 – Python Basics
+- [x] Variables
+- [x] User Input
+- [x] Print Formatting
+- [ ] Operators
+- [ ] If-Else
+- [ ] Loops
+
+Mini Project:
+- 🪪 Student ID Card Generator (CLI)
+
+---
+
+# 🛣 Learning Roadmap
+
+## 🟢 Phase 1 – Python Foundations
 - Variables
-- User Input
-- Print Formatting
+- Data Types
+- Operators
+- Conditions
+- Loops
+- Functions
+- Lists & Dictionaries
+- OOP Basics
+
+## 🔵 Phase 2 – Problem Solving
+- Basic Logic Problems
+- Mini CLI Projects
+- File Handling
+- Exception Handling
+
+## 🟣 Phase 3 – Data & ML
+- NumPy
+- Pandas
+- Data Cleaning
+- Data Visualization
+- Scikit-learn
+- Regression Models
+- Classification Models
+
+## 🔴 Phase 4 – Advanced ML + EV Integration
+- Model Optimization
+- Deployment (Flask / Streamlit)
+- EV Data Analysis
+- Battery Health Prediction Models
 
 ---
 
-## 🧑‍💻 Mini Project 1 – Student ID Card Generator
+# 📊 GitHub Contribution Goal
 
-A simple CLI program that:
-- Takes user details as input
-- Stores them in variables
-- Prints a formatted Student ID card
-
-### 🛠 Concepts Used
-- Variables
-- `input()`
-- `print()`
-
----
-
-## 🎯 Goal
-
-Build strong Python fundamentals  
-→ Move to problem solving  
-→ Learn Data Analysis (NumPy, Pandas)  
-→ Build ML Projects  
-→ Combine ML + EV Domain 🚗⚡
-
----
-
-## 🔥 Why This Repo?
-
-I believe in **building in public** and documenting progress instead of waiting to become perfect.
+🎯 Goal: Minimum 1 meaningful commit per day  
+🎯 90 Days Consistency Challenge  
+🎯 Build 10 Python Projects before ML  
 
 Consistency > Motivation.
 
 ---
 
+# 🧑‍💻 Mini Projects
+
+| Project | Concepts Used | Status |
+|----------|---------------|--------|
+| Student ID Card Generator | Variables, Input | ✅ Completed |
+
+More projects coming soon...
+
+---
+
+# 💡 Why This Repo?
+
+I believe in **building in public** and documenting growth instead of waiting to become perfect.
+
+This repository will evolve as I grow.
+
+---
+
 👨‍💻 Author: Sanju H S  
-📌 Journey: Beginner → ML Engineer
+🚀 Journey: Beginner → ML Engineer  
