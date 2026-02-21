@@ -74,7 +74,13 @@ Consistency > Motivation.
 - Learned Variables & Input
 - Built Student ID Card Generator
 - Pushed first project to GitHub
-- Solved Git merge conflict
+- Solved Git merge conflict.
+
+## Day 2
+- Learned arithmetic operators
+- Learned comparison operators
+- Learned logical operators
+- Built Smart Calculator
 
 More daily updates coming...
 
@@ -95,6 +101,7 @@ More daily updates coming...
 | Project | Concepts Used | Status |
 |----------|---------------|--------|
 | Student ID Card Generator | Variables, Input | ✅ Completed |
+| Built Smart Calculator | Operators, Typeconversion |  ✅ Completed |
 
 ---
 
