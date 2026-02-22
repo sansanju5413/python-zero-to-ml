@@ -146,3 +146,7 @@ a=21
 b=12
 print(a&b)  #returns 4 
 print(a|b) #returns 29
+
+
+
+
