@@ -2,40 +2,52 @@
 
 Documenting my journey from **Python Beginner → Machine Learning Engineer**.
 
-I am building strong Python fundamentals first, then moving into Data Science and ML — with a long-term goal of combining **Machine Learning + EV Technology ⚡🚗**.
+Building strong Python fundamentals first, then moving into Data Science, ML, and eventually combining ML with EV Technology ⚡🚗.
 
 ---
 
 # 📅 Progress Tracker
 
-## ✅ Week 1 – Python Basics
-- [x] Variables
-- [x] User Input
-- [x] Print Formatting
-- [ ] Operators
-- [ ] If-Else
-- [ ] Loops
+## ✅ Week 1 – Python Fundamentals
 
-Mini Project:
-- 🪪 Student ID Card Generator (CLI)
+### ✔ Day 1
+- Learned Variables
+- Learned User Input
+- Built Student ID Card Generator
+- Set up Git & GitHub
+- Pushed first project
+
+### ✔ Day 2
+- Learned Arithmetic Operators
+- Learned Comparison Operators
+- Learned Logical Operators
+- Practiced 15+ operator-based problems
+- Built Smart Calculator
+- Fixed logic errors (BMI, EMI, Salary deduction)
+
+### ✔ Day 3
+- Learned If-Else statements
+- Practiced decision-making problems
+- Built ATM Withdrawal System
+- Built Grade Calculator
 
 ---
 
 # 🛣 Learning Roadmap
 
 ## 🟢 Phase 1 – Python Foundations
-- Variables
-- Data Types
-- Operators
-- Conditions
-- Loops
-- Functions
-- Lists & Dictionaries
-- OOP Basics
+- Variables ✅
+- Input / Output ✅
+- Operators ✅
+- If-Else ✅
+- Loops ⏳
+- Functions ⏳
+- Lists & Dictionaries ⏳
+- OOP Basics ⏳
 
 ## 🔵 Phase 2 – Problem Solving
-- Logic building
 - CLI mini projects
+- Logic building
 - File handling
 - Exception handling
 
@@ -45,8 +57,7 @@ Mini Project:
 - Data Cleaning
 - Data Visualization
 - Scikit-learn
-- Regression
-- Classification
+- Regression & Classification
 
 ## 🔴 Phase 4 – ML + EV Integration
 - EV Data Analysis
@@ -61,55 +72,30 @@ Mini Project:
 🎯 Minimum 1 meaningful commit per day  
 🎯 Build 10 Python projects  
 🎯 Build 3 ML projects  
-🎯 Deploy at least 1 ML model  
+🎯 Deploy 1 ML model  
 
 Consistency > Motivation.
 
 ---
 
-# 📝 Build in Public Log
-
-## Day 1
-- Set up Git & GitHub properly
-- Learned Variables & Input
-- Built Student ID Card Generator
-- Pushed first project to GitHub
-- Solved Git merge conflict.
-
-## Day 2
-- Learned arithmetic operators
-- Learned comparison operators
-- Learned logical operators
-- Built Smart Calculator
-
-More daily updates coming...
-
----
-
-# 💡 Future ML + EV Project Ideas
-
-- 📈 EV Battery Health Prediction Model
-- 🔋 Battery Degradation Analysis using ML
-- 🚗 EV Range Estimator using Regression
-- 📊 EV Dashboard using Streamlit
-- 🧠 AI-powered Charging Optimization System
-
----
-
-# 👨‍💻 Mini Projects
+# 🧑‍💻 Mini Projects
 
 | Project | Concepts Used | Status |
-|----------|---------------|--------|
-| Student ID Card Generator | Variables, Input | ✅ Completed |
-| Built Smart Calculator | Operators, Typeconversion |  ✅ Completed |
+|----------|--------------|--------|
+| Student ID Card Generator | Variables, Input | ✅ |
+| Smart Calculator | Operators | ✅ |
+| ATM Withdrawal System | If-Else | ✅ |
+| Grade Calculator | If-Else | ✅ |
+
+More projects coming soon...
 
 ---
 
 # 💬 Why This Repo?
 
-I believe in **learning publicly**, tracking progress, and building real skills instead of chasing shortcuts.
+I believe in **learning publicly**, tracking progress, and improving step-by-step instead of chasing shortcuts.
 
-This repository will grow as I grow.
+This repository will evolve as I grow.
 
 ---
 
