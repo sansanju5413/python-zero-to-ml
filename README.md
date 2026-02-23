@@ -23,13 +23,36 @@ Building strong Python fundamentals first, then moving into Data Science, ML, an
 - Learned Logical Operators
 - Practiced 15+ operator-based problems
 - Built Smart Calculator
-- Fixed logic errors (BMI, EMI, Salary deduction)
+- Built EMI Calculator
+- Fixed logic errors (BMI, Salary deduction, EMI calculation)
 
 ### ✔ Day 3
 - Learned If-Else statements
 - Practiced decision-making problems
 - Built ATM Withdrawal System
 - Built Grade Calculator
+
+### ✔ Day 4
+- Learned Lists
+- Learned basic Loop iteration
+- Stored user inputs in lists
+- Used sum(), max(), min(), len()
+- Counted even and odd numbers using loops
+- Built Student Marks Analyzer
+
+---
+
+# 🧠 Concepts Covered So Far
+
+- Variables ✅  
+- Input / Output ✅  
+- Type Conversion ✅  
+- Arithmetic Operators ✅  
+- Comparison Operators ✅  
+- Logical Operators ✅  
+- If-Else ✅  
+- Lists ✅  
+- Basic Loops ✅  
 
 ---
 
@@ -40,9 +63,10 @@ Building strong Python fundamentals first, then moving into Data Science, ML, an
 - Input / Output ✅
 - Operators ✅
 - If-Else ✅
+- Lists ✅
 - Loops ⏳
 - Functions ⏳
-- Lists & Dictionaries ⏳
+- Dictionaries ⏳
 - OOP Basics ⏳
 
 ## 🔵 Phase 2 – Problem Solving
@@ -57,20 +81,21 @@ Building strong Python fundamentals first, then moving into Data Science, ML, an
 - Data Cleaning
 - Data Visualization
 - Scikit-learn
-- Regression & Classification
+- Regression
+- Classification
 
 ## 🔴 Phase 4 – ML + EV Integration
 - EV Data Analysis
 - Battery Health Prediction
 - EV Range Prediction Model
-- Deployment using Flask/Streamlit
+- Deployment using Flask / Streamlit
 
 ---
 
 # 📊 90-Day Consistency Challenge
 
 🎯 Minimum 1 meaningful commit per day  
-🎯 Build 10 Python projects  
+🎯 Build 10 Python mini projects  
 🎯 Build 3 ML projects  
 🎯 Deploy 1 ML model  
 
@@ -78,14 +103,16 @@ Consistency > Motivation.
 
 ---
 
-# 🧑‍💻 Mini Projects
+# 🧑‍💻 Mini Projects Built
 
 | Project | Concepts Used | Status |
 |----------|--------------|--------|
 | Student ID Card Generator | Variables, Input | ✅ |
 | Smart Calculator | Operators | ✅ |
-| ATM Withdrawal System | If-Else | ✅ |
+| EMI Calculator | Operators | ✅ |
 | Grade Calculator | If-Else | ✅ |
+| ATM Withdrawal System | If-Else | ✅ |
+| Student Marks Analyzer | Lists, Loops | ✅ |
 
 More projects coming soon...
 
@@ -100,4 +127,4 @@ This repository will evolve as I grow.
 ---
 
 👨‍💻 Author: Sanju H S  
-🚀 Journey: Beginner → ML Engineer  
+🚀 Journey: Beginner → ML Engineer
