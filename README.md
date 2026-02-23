@@ -2,7 +2,7 @@
 
 Documenting my journey from **Python Beginner → Machine Learning Engineer**.
 
-Building strong Python fundamentals first, then moving into Data Science, ML, and eventually combining ML with EV Technology ⚡🚗.
+Building strong Python fundamentals first, then moving into Data Science, Machine Learning, and eventually combining ML with EV Technology ⚡🚗.
 
 ---
 
@@ -10,14 +10,16 @@ Building strong Python fundamentals first, then moving into Data Science, ML, an
 
 ## ✅ Week 1 – Python Fundamentals
 
-### ✔ Day 1
+### ✔ Day 1 – Variables & Input
 - Learned Variables
 - Learned User Input
 - Built Student ID Card Generator
 - Set up Git & GitHub
 - Pushed first project
 
-### ✔ Day 2
+---
+
+### ✔ Day 2 – Operators Mastery
 - Learned Arithmetic Operators
 - Learned Comparison Operators
 - Learned Logical Operators
@@ -26,19 +28,38 @@ Building strong Python fundamentals first, then moving into Data Science, ML, an
 - Built EMI Calculator
 - Fixed logic errors (BMI, Salary deduction, EMI calculation)
 
-### ✔ Day 3
+---
+
+### ✔ Day 3 – Decision Making
 - Learned If-Else statements
 - Practiced decision-making problems
 - Built ATM Withdrawal System
 - Built Grade Calculator
 
-### ✔ Day 4
+---
+
+### ✔ Day 4 – Lists & Loop Introduction
 - Learned Lists
-- Learned basic Loop iteration
-- Stored user inputs in lists
-- Used sum(), max(), min(), len()
+- Stored user inputs inside lists
+- Used `sum()`, `max()`, `min()`, `len()`
 - Counted even and odd numbers using loops
 - Built Student Marks Analyzer
+- Built Personal Expense Analyzer
+
+---
+
+### ✔ Day 4-extended – Loop Mastery
+- Practiced for-loops extensively
+- Learned `range()` function
+- Learned nested loops
+- Built multiplication tables
+- Implemented factorial logic
+- Calculated sum from 1 to n
+- Found largest and second largest numbers
+- Counted vowels in a word
+- Reversed strings using loops
+- Printed patterns
+- Used `break` and `continue`
 
 ---
 
@@ -52,7 +73,9 @@ Building strong Python fundamentals first, then moving into Data Science, ML, an
 - Logical Operators ✅  
 - If-Else ✅  
 - Lists ✅  
-- Basic Loops ✅  
+- For Loops ✅  
+- Nested Loops ✅  
+- Break & Continue ✅  
 
 ---
 
@@ -64,16 +87,20 @@ Building strong Python fundamentals first, then moving into Data Science, ML, an
 - Operators ✅
 - If-Else ✅
 - Lists ✅
-- Loops ⏳
+- Loops ✅
 - Functions ⏳
 - Dictionaries ⏳
 - OOP Basics ⏳
+
+---
 
 ## 🔵 Phase 2 – Problem Solving
 - CLI mini projects
 - Logic building
 - File handling
 - Exception handling
+
+---
 
 ## 🟣 Phase 3 – Data Science & ML
 - NumPy
@@ -83,6 +110,8 @@ Building strong Python fundamentals first, then moving into Data Science, ML, an
 - Scikit-learn
 - Regression
 - Classification
+
+---
 
 ## 🔴 Phase 4 – ML + EV Integration
 - EV Data Analysis
@@ -95,7 +124,7 @@ Building strong Python fundamentals first, then moving into Data Science, ML, an
 # 📊 90-Day Consistency Challenge
 
 🎯 Minimum 1 meaningful commit per day  
-🎯 Build 10 Python mini projects  
+🎯 Build 15+ Python mini projects  
 🎯 Build 3 ML projects  
 🎯 Deploy 1 ML model  
 
@@ -113,18 +142,20 @@ Consistency > Motivation.
 | Grade Calculator | If-Else | ✅ |
 | ATM Withdrawal System | If-Else | ✅ |
 | Student Marks Analyzer | Lists, Loops | ✅ |
+| Personal Expense Analyzer | Lists, If-Else | ✅ |
 
 More projects coming soon...
 
 ---
 
-# 💬 Why This Repo?
+# 💡 Why This Repository?
 
 I believe in **learning publicly**, tracking progress, and improving step-by-step instead of chasing shortcuts.
 
-This repository will evolve as I grow.
+This repository represents consistency, structured learning, and continuous improvement.
 
 ---
 
 👨‍💻 Author: Sanju H S  
-🚀 Journey: Beginner → ML Engineer
+🚀 Journey: Beginner → ML Engineer  
+📌 Goal: Master Python → Data Science → Machine Learning → EV + AI Integration
