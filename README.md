@@ -48,7 +48,7 @@ Building strong Python fundamentals first, then moving into Data Science, Machin
 
 ---
 
-### ✔ Day 4-extended – Loop Mastery
+### ✔ Day 4 (Extended) – Loop Mastery
 - Practiced for-loops extensively
 - Learned `range()` function
 - Learned nested loops
@@ -60,6 +60,18 @@ Building strong Python fundamentals first, then moving into Data Science, Machin
 - Reversed strings using loops
 - Printed patterns
 - Used `break` and `continue`
+
+---
+
+### ✔ Day 5 – Mini Project Integration
+- Combined multiple concepts into one structured program
+- Implemented:
+  - Even/Odd check
+  - Prime number logic
+  - Palindrome check
+  - Sum of digits
+  - Factorial with condition
+- Built **Number Analyzer System**
 
 ---
 
@@ -76,6 +88,26 @@ Building strong Python fundamentals first, then moving into Data Science, Machin
 - For Loops ✅  
 - Nested Loops ✅  
 - Break & Continue ✅  
+- Prime Logic ✅  
+- Palindrome Logic ✅  
+- Factorial Logic ✅  
+
+---
+
+# 🧑‍💻 Mini Projects Built
+
+| Project | Concepts Used | Status |
+|----------|--------------|--------|
+| Student ID Card Generator | Variables, Input | ✅ |
+| Smart Calculator | Operators | ✅ |
+| EMI Calculator | Operators | ✅ |
+| Grade Calculator | If-Else | ✅ |
+| ATM Withdrawal System | If-Else | ✅ |
+| Student Marks Analyzer | Lists, Loops | ✅ |
+| Personal Expense Analyzer | Lists, If-Else | ✅ |
+| Number Analyzer System | Loops, Prime, Palindrome, Factorial | ✅ |
+
+More projects coming soon...
 
 ---
 
@@ -124,7 +156,7 @@ Building strong Python fundamentals first, then moving into Data Science, Machin
 # 📊 90-Day Consistency Challenge
 
 🎯 Minimum 1 meaningful commit per day  
-🎯 Build 15+ Python mini projects  
+🎯 Build 20+ Python mini projects  
 🎯 Build 3 ML projects  
 🎯 Deploy 1 ML model  
 
@@ -132,27 +164,15 @@ Consistency > Motivation.
 
 ---
 
-# 🧑‍💻 Mini Projects Built
-
-| Project | Concepts Used | Status |
-|----------|--------------|--------|
-| Student ID Card Generator | Variables, Input | ✅ |
-| Smart Calculator | Operators | ✅ |
-| EMI Calculator | Operators | ✅ |
-| Grade Calculator | If-Else | ✅ |
-| ATM Withdrawal System | If-Else | ✅ |
-| Student Marks Analyzer | Lists, Loops | ✅ |
-| Personal Expense Analyzer | Lists, If-Else | ✅ |
-
-More projects coming soon...
-
----
-
 # 💡 Why This Repository?
 
 I believe in **learning publicly**, tracking progress, and improving step-by-step instead of chasing shortcuts.
 
-This repository represents consistency, structured learning, and continuous improvement.
+This repository represents:
+- Consistency
+- Structured learning
+- Daily improvement
+- Public accountability
 
 ---
 
