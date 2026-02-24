@@ -54,7 +54,7 @@ for n in range(1,11):
 '''
 n=int(input("enter the nth number: "))
 total=0
-for i in range(1,n):
+for i in range(1,n+1):
     total+=i
 print(f"total sum of {n-1}: {total}")
 
@@ -70,9 +70,11 @@ for i in range(1,n+1):
 print("factorial is: ", factorial)
 
 #8️⃣ Count how many numbers between 1 and 100 are divisible by 3
+count=0
 for i in range(1,101):
     if i%3==0:
-        print(i)
+        count+=1
+print(count)
 
 # 9️⃣ Reverse counting from 10 to 1
 for i in range(10,0,-1):
@@ -102,17 +104,21 @@ for n in lis:
 print(large)
 
 #1️⃣2️⃣ Find second largest number in list
-lis=[2,4,6,7,3,1,12]
-large=0
-seclarge=0
-for n in lis:
-    if n>large:
-        large=n
-print("largest number in the list is: ",large)
-for i in lis:
-    if i<n and i>seclarge:
-        seclarge=i
-print("second largest number in list is: ", seclarge)
+lis = [2,4,6,7,3,1,12]
+
+largest = lis[0]
+second = lis[0]
+
+for num in lis:
+    if num > largest:
+        second = largest
+        largest = num
+    elif num > second and num != largest:
+        second = num
+
+print("Largest:", largest)
+print("Second Largest:", second)
+
 
 '''
 1️⃣3️⃣ Count vowels in a word
@@ -130,7 +136,7 @@ print("no.of vowels: ",count)
 
 # 1️⃣4️⃣ Reverse a string using loop
 st=input("enter the string: ")
-reverse_text=" "
+reverse_text=""
 for i in st:
     reverse_text=i+reverse_text
 print(reverse_text)
